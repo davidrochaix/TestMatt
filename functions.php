@@ -11,3 +11,6 @@ function theme_support() {
 function nouvelle () {
   echo 'nouvelle';
 }
+function davidisme() {
+  echo 'winner';
+}
